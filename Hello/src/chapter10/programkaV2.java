@@ -16,7 +16,7 @@ public class programkaV2 {
 		JPanel panel=new JPanel();
 		panel.add(button);
 		panel.add(label);
-		panel.add(panel);
+		frame.add(panel);
 
 
 		final int FRAME_WIDTH=300;
@@ -25,5 +25,5 @@ public class programkaV2 {
 		frame.setTitle("Programka");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-		frame.setVisible(true);trugniDE
+		frame.setVisible(true);
 	}}
