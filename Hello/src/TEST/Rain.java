@@ -1,4 +1,4 @@
-package Landscape;
+package TEST;
 
 import java.awt.Color;
 import java.awt.Graphics;
