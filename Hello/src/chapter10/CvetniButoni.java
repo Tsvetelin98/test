@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 
 
 public class CvetniButoni  extends JFrame {
-	  protected static final Object Image = "file:///home/eniware/Desktop/0.png";
+	  
 	JButton red,green,blue,yellow,Eniware;
 
 	public CvetniButoni() {
